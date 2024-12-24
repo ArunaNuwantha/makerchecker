@@ -1,0 +1,9 @@
+# Binaries
+makerchecker
+
+# Go build files
+*.exe
+*.log
+
+# Dependency directories
+vendor/
