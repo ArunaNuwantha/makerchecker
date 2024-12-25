@@ -1,5 +1,5 @@
 # Start from the official Go image as the build stage
-FROM golang:1.20-alpine AS builder
+FROM golang:1.23-alpine AS builder
 
 # Set environment variables
 ENV GO111MODULE=on
